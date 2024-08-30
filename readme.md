@@ -8,36 +8,11 @@
 </div>
 
 
-<h2 align="center">Assalam U Alaikum !,👋<br> I am <strong>Bisma Ibrahim</strong><br>
-I am currently pursuing a 3-year Career Program ACCP | PRIME 2.0 in Aptech Gulshan II and working as a web designer at Qavi Tech.<br>
+<h2 align="center">Assalam U Alaikum !,<br> I am <strong>Bisma Ibrahim</strong><br>
+I am currently pursuing a 3-year Career Program ACCP and working as a web designer at Qavi Tech.<br>
 </h2>
 
 <br clear="both">
-
-<h2 align="center">📖 Best Quranic Duas & Motivational Ayahs</h2>
-
-
-
-<br clear="both">
-
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img height="250" src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/i2.jpg" alt="Dua Image 1" style="margin: 0 20px;" />
-  <img height="250" src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/i1.jpg" alt="Dua Image 2" style="margin: 0 20px;" />
-  <img height="250" src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/i3.jpg" alt="Dua Image 3" style="margin: 0 20px;" />
-</div>
-
-<br clear="both">
-<h2 align="center">📖  الرقية الشرعية | الشيخ مشاري راشد العفاسي || Mishary Alafasy Ruqiah </h2>
-
-
-
-
-
-https://github.com/user-attachments/assets/555dfac1-c02d-45bd-846f-c50b10a413e5
-
-
-
-
 
 <br clear="both">
 
