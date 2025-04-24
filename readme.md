@@ -3,14 +3,10 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BISMA-IBRAHIM.BISMA-IBRAHIM&"  />
-</div>
 
 
-<h2 align="center">Assalam U Alaikum !,<br> I am <strong>Bisma Ibrahim</strong><br>
-I am currently pursuing a 3-year Career Program ACCP and working as a web designer at Qavi Tech.<br>
-</h2>
+
+
 
 <br clear="both">
 
