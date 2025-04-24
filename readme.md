@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/BISMA-IBRAHIM/BISMA-IBRAHIM/blob/main/images/bi.png)
 
 
 <br clear="both">
